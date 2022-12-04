@@ -1,6 +1,6 @@
 <super-manifest version="2.0">
   <board-manifest-list>
-    <board-manifest dependency-url="hhttps://github.com/ddka22/rutronix-mtb-bsp-manifest/raw/main/rutronix-bsp-dependencies-manifest.xml">
+    <board-manifest dependency-url="https://github.com/ddka22/rutronix-mtb-bsp-manifest/raw/main/rutronix-bsp-dependencies-manifest.xml">
       <uri>https://github.com/ddka22/rutronix-mtb-bsp-manifest/raw/main/rutronix-bsp-manifest-fv2.xml</uri>
     </board-manifest>
   </board-manifest-list>
